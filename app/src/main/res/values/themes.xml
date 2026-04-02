@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Use an AppCompat/Material-compatible parent so AppCompatActivity won't crash -->
+    <style name="Theme.CureBaseUpdater" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>

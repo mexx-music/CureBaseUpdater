@@ -1,0 +1,16 @@
+.pragma library
+
+/* ComboBoxHacks.js */
+function calcComboBoxImplicitWidth(cb) {
+  var widest = 0
+  if (cb.count===0) return cb.width
+  var originalCI = cb.currentIndex
+  if (originalCI < 0) return cb.width // currentIndex →  deleted item
+  do {
+    widest = Math.max(widest, cb.contentItem.contentWidth)
+    cb.currentIndex = (cb.currentIndex + 1) % cb.count
+  } while(cb.currentIndex !== originalCI)
+
+  return widest + cb.contentItem.leftPadding + cb.contentItem.rightPadding
+                + cb.indicator.width
+}

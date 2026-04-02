@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyProgramsForm.ui.qml</file>
+        <file>CureDevicesForm.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>SettingsForm.ui.qml</file>
+        <file>AvailableProgramsForm.ui.qml</file>
+        <file alias="list-add">icons/drawable-hdpi/outline_note_add_black_48.png</file>
+        <file>icons/index.theme</file>
+        <file>icons/24x24@2/list-add.png</file>
+        <file>icons/24x24/list-add.png</file>
+        <file>icons/24x24@2/media-playback-start.png</file>
+        <file>icons/24x24/media-playback-start.png</file>
+        <file>icons/24x24@2/media-playback-stop.png</file>
+        <file>icons/24x24/media-playback-stop.png</file>
+        <file>icons/24x24@2/media-playback-pause.png</file>
+        <file>icons/24x24/media-playback-pause.png</file>
+        <file>icons/24x24@2/network-disconnect.png</file>
+        <file>icons/24x24/network-disconnect.png</file>
+        <file>icons/24x24@2/network-connect.png</file>
+        <file>icons/24x24/network-connect.png</file>
+        <file>icons/24x24/document-properties.png</file>
+        <file>icons/24x24@2/document-properties.png</file>
+        <file>icons/24x24/view-refresh.png</file>
+        <file>icons/24x24@2/view-refresh.png</file>
+        <file>icons/24x24/edit-delete.png</file>
+        <file>icons/24x24@2/edit-delete.png</file>
+        <file>icons/24x24/dialog-ok.png</file>
+        <file>icons/24x24@2/dialog-ok.png</file>
+        <file>icons/24x24/dialog-cancel.png</file>
+        <file>icons/24x24@2/dialog-cancel.png</file>
+        <file>icons/24x24/edit-find.png</file>
+        <file>icons/24x24@2/edit-find.png</file>
+        <file>icons/24x24/home.png</file>
+        <file>icons/24x24@2/home.png</file>
+        <file>icons/24x24/expand.png</file>
+        <file>icons/24x24@2/expand.png</file>
+        <file>icons/24x24/media-playlist-play.png</file>
+        <file>icons/24x24@2/media-playlist-play.png</file>
+        <file>icons/24x24/media-playlist-play.png</file>
+        <file>icons/24x24/battery_0_bar.png</file>
+        <file>icons/24x24/battery_1_bar.png</file>
+        <file>icons/24x24/battery_2_bar.png</file>
+        <file>icons/24x24/battery_3_bar.png</file>
+        <file>icons/24x24/battery_4_bar.png</file>
+        <file>icons/24x24/battery_5_bar.png</file>
+        <file>icons/24x24/battery_6_bar.png</file>
+        <file>icons/24x24/battery_full.png</file>
+        <file>icons/24x24/battery_unknown.png</file>
+        <file>icons/24x24/battery_charging.png</file>
+        <file>icons/24x24@2/battery_0_bar.png</file>
+        <file>icons/24x24@2/battery_1_bar.png</file>
+        <file>icons/24x24@2/battery_2_bar.png</file>
+        <file>icons/24x24@2/battery_3_bar.png</file>
+        <file>icons/24x24@2/battery_4_bar.png</file>
+        <file>icons/24x24@2/battery_5_bar.png</file>
+        <file>icons/24x24@2/battery_6_bar.png</file>
+        <file>icons/24x24@2/battery_full.png</file>
+        <file>icons/24x24@2/battery_unknown.png</file>
+        <file>icons/24x24@2/battery_charging.png</file>
+        <file alias="Programs">Programs.bin</file>
+        <file alias="AppIcon">icons/H-B_App3.png</file>
+        <file alias="CureBaseFirmware">CureBase.upd</file>
+        <file>DragDropTest.qml</file>
+        <file>ComboBoxHacks.js</file>
+        <file>MyOwnProgramsForm.ui.qml</file>
+    </qresource>
+</RCC>

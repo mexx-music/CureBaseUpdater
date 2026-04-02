@@ -1,0 +1,14 @@
+[Icon Theme]
+Name=mytheme
+Comment=My Icon Theme
+
+Directories=24x24,24x24@2
+
+[24x24]
+Size=24
+Type=Fixed
+
+[24x24@2]
+Size=24
+Scale=2
+Type=Fixed
